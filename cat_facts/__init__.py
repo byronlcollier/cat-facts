@@ -1,2 +1,2 @@
-from .facts import *
-__all__ = facts.__all__
+from .fact import *
+__all__ = fact.__all__
