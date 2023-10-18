@@ -1,3 +1,7 @@
+"""
+An example module to demonstrate the use of Poetry to create function/class libraries. 
+"""
+
 import requests
 
 __all__ = ["Facts"]
@@ -20,7 +24,7 @@ class Facts:
         api_url: str = None
     ):
         """
-        Sets base class attributes.
+        A demo class to return a random cat fact.
 
         Parameters
         ----------

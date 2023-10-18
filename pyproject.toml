@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cat-facts"
-version = "0.3.1"
+version = "1.0.0"
 description = ""
 authors = ["Byron Collier <collieb@confused.com>"]
 readme = "README.md"
