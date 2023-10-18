@@ -4,9 +4,9 @@ An example module to demonstrate the use of Poetry to create function/class libr
 
 import requests
 
-__all__ = ["Facts"]
+__all__ = ["Fact"]
 
-class Facts:
+class Fact:
     """A class to demonstrate how to use Poetry to create a custom library
 
     Attributes
