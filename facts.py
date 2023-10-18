@@ -1,7 +1,5 @@
 import requests
 
-__all__ = ["Facts"]
-
 class Facts:
     """A class to demonstrate how to use Poetry to create a custom library
 
