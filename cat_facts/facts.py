@@ -17,7 +17,7 @@ class Facts:
 
     def __init__(
         self,
-        api_url: str
+        api_url: str = None
     ):
         """
         Sets base class attributes.
